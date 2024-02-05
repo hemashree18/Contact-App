@@ -27,6 +27,6 @@ function App() {
       {/*<ContactCard/>*/}
     </div>
   );
-}
+};//comment/
 
 export default App;
