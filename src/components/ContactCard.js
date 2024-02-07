@@ -1,5 +1,5 @@
 import React from "react";
-import user from "../images/user001.png";
+import user from "../images/user0001.png";
 
 const ContactCard = (props) => {
   const { id, name, email } = props.contact;
